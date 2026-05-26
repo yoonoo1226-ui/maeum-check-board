@@ -1,0 +1,6 @@
+{
+  "name": "마음체크보드",
+  "description": "학생들이 자신의 감정을 온도와 날씨로 표현하고 확인하는 감정 교육용 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
